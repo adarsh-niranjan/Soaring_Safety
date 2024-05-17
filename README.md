@@ -1,2 +1,2 @@
 # Soaring_Safety
-A tableau data analysis project based on bird strike events with different airlines.
+A tableau data analysis project based on airline bird strike events.
