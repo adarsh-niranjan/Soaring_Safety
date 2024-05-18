@@ -1,4 +1,4 @@
-# Soaring_Safety
+# Soaring Safety
 <img src="https://www.thiot-ingenierie.com/wp-content/uploads/2017/07/impact-avion-oiseau.jpg" width=400 height=200>  <br>
 ## *A tableau data analysis project based on airline bird strike events.* </br>
 
